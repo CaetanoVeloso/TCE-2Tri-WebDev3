@@ -20,7 +20,7 @@
         <h1>Simulador de Investimentos</h1>
         <ul>
             <li><a href="./entrada.html">Simulação</a></li>
-            <li><a href="./historico.php">historico</a></li>
+            <li><a href="./historico.php">Histórico</a></li>
         </ul>
     </main>
 
